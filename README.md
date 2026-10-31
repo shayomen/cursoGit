@@ -8,8 +8,8 @@ Aprender a usar La inteligencia artificial
 - Python
 - n8n
 
-## Instalaciín
-Bash
+## Instalación
+Bash  
 docker --version
 
 ## Pasos a seguir
@@ -24,6 +24,7 @@ docker --version
 
 ## Código
 `
+python
 print ("Hola y bienvenidos");
 `
 
@@ -37,7 +38,7 @@ print ("Hola y bienvenidos");
 [Visitar crema y pastel](https://cremaypastel.com)
 
 ## Tipos de textos
-*cursiva* solamente un asterisco
-**Negrita** Dos asteriscos
-***Negrita cursiva*** 3 asteriscos
+*cursiva* solamente un asterisco  
+**Negrita** Dos asteriscos  
+***Negrita cursiva*** 3 asteriscos  
 ~~Texto tachado~~ 2 virgulillas
